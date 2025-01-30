@@ -28,3 +28,7 @@ This repository provides an implementation of a few exercises I solved, utilizin
    - **Problem**: Implement Tabu Search to Solve a 9x9 Grid Puzzle  
      - Each row must contain unique integers from 1 to 9.
      - Each column must also contain unique integers from 1 to 9.
+
+
+### 8. **sudoku.py**:
+   - **Problem**: empty
