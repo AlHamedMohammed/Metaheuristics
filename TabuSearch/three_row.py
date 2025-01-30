@@ -1,5 +1,5 @@
 """
-Exercise: Implement Tabu Search to Optimize an N-Row Grid
+Exercise: Implement Tabu Search to Optimize an 3-Row Grid
 
 Problem Statement:
 You are tasked with optimizing an 3-row grid of integers, where each row contains 9 random integers between 1 and 9. 
