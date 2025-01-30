@@ -1,6 +1,7 @@
 # Metaheuristics
 This repository provides an implementation of a few exercises I solved, utilizing the Tabu Search metaheuristic algorithm.
 
+<<<<<<< HEAD
 file Ex1.py : 
              Minimize a Simple Mathematical Function
              f(x) = x^2 + 4 x + 5
@@ -30,3 +31,5 @@ file col_row.py :
 
 
             
+=======
+>>>>>>> 3586fd042e92e6bb8aa8d09bf6d09ec4bacd12f8
